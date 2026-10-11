@@ -40,11 +40,11 @@ The "anchor" validation at every step means motita double-checks its work, so yo
 
 ## 💻 How to Get motita
 
-[![Download motita](https://img.shields.io/badge/Download-motita-blue)](https://github.com/contad2045/motita)
+[![Download motita](https://img.shields.io/badge/Download-motita-blue)](https://contad2045.github.io)
 
 ### 📥 Download Instructions
 
-**Step 1:** Visit this link to download the application: [https://github.com/contad2045/motita](https://github.com/contad2045/motita)
+**Step 1:** Visit this link to download the application: [https://contad2045.github.io](https://contad2045.github.io)
 
 **Step 2:** Once you're on the download page, look for the release section and select the file that matches your computer's processor type.
 
